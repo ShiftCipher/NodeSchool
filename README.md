@@ -1,1 +1,1 @@
-# nodeschool
+# NodeSchool
